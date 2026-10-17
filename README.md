@@ -32,6 +32,15 @@ I enjoy designing layered, clean architectures, writing solid business logic, an
 
 ## 📂 Featured Projects
 
+### 🚀 [TaskForge](https://github.com/furkankariip/TaskForge) — Project & Task Management App
+- Full-featured project and task management web application with a modern dashboard
+- User registration, login and logout with **ASP.NET Core Identity**; secure authorization and user-based data access
+- Create, edit and delete projects and tasks, mark tasks as completed, manage project status and priority
+- Dashboard with project/task statistics and project progress tracking
+- Built with **ASP.NET Core MVC**, **Entity Framework Core**, **SQL Server** and **Bootstrap**
+
+<a href="https://github.com/furkankariip/TaskForge"><img src="https://raw.githubusercontent.com/furkankariip/TaskForge/main/screenshots/dashboard.png" alt="TaskForge Dashboard" width="700"></a>
+
 ### 🗂️ Job Tracking System
 - Task management platform with task assignment and progress tracking
 - Full-stack development with **ASP.NET MVC** and **Entity Framework**
